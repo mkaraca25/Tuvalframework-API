@@ -11,10 +11,6 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "@tuval/cg": "^0.0.16",
-        "@tuval/core": "^0.0.92",
-        "@tuval/forms": "^0.0.22",
-        "@tuval/graphics": "^0.0.10",
         "css-loader": "^6.7.1",
         "declaration-bundler-webpack-plugin": "^1.0.3",
         "dts-bundle": "^0.7.3",
